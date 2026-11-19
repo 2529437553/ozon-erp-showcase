@@ -8,6 +8,8 @@ MultiHelm is a self-hosted workbench (ERP) for sellers who run many Ozon stores 
 
 [打开界面演示](https://2529437553.github.io/ozon-erp-showcase/demo.html) · [演示页说明](https://2529437553.github.io/ozon-erp-showcase/) · [预约演示](https://multihelm.vetted-sourcing.com/#contact)
 
+第一次体验可以跟着[双商品采购核对指南](https://multihelm.vetted-sourcing.com/guides/order-purchase-check/)，打开[同一笔样例订单](https://2529437553.github.io/ozon-erp-showcase/demo.html?order=DEMO-2026-001)，逐行保存采购单号、国内快递单号和成本，再更正其中一行。
+
 ![订单界面演示](docs/preview.png)
 
 ## 可以体验
